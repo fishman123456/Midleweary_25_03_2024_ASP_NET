@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Midleweary_25_03_2024_ASP_NET/1.0.0": {
+        "runtime": {
+          "Midleweary_25_03_2024_ASP_NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midleweary_25_03_2024_ASP_NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
